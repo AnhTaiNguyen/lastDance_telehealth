@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TeleCare19</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="header">Telecare19</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="news">News</string>
+
+    <string name="appointment">Book appointment</string>
+    <string name="cancel">Back</string>
+
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="last_name">Last Name:</string>
+    <string name="new_password">New Password</string>
+    <string name="save">Save</string>
+    <string name="at">At</string>
+    <string name="date">Date</string>
+    <string name="note">Note</string>
+    <string name="profession">Profession:</string>
+    <string name="list_appoinment">List Appoinment</string>
+
+    <string-array name="doctor_specialties">
+        <item>Blood Pressure</item>
+        <item>Body Mass Index</item>
+        <item>Nurse - Nurse Practitioner</item>
+        <item>Psychology - Clinical Psychologist</item>
+        <item>Psychiatry</item>
+        <item>Physician Assistant </item>
+        <item>Family Practice </item>
+        <item>Internal Medicine </item>
+        <item>Dietitian/Nutrition Professional 	</item>
+        <item>Pediatric Medicine </item>
+        <item>Therapy - Speech Language Pathologist </item>
+
+    </string-array>
+
+</resources>

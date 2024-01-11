@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#B2DFDB"
+    android:background="#cfe2f3"
     tools:context=".MainActivity">
 
     <ImageView
@@ -20,7 +20,8 @@
         app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintEnd_toStartOf="@+id/patientButton"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.666" />
 
     <ImageView
         android:id="@+id/patientButton"
@@ -35,7 +36,8 @@
         app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/doctorButton"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.666" />
 
     <TextView
         android:id="@+id/titleTextView"
@@ -43,16 +45,17 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
         android:layout_marginEnd="60dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="76dp"
         android:fontFamily="@font/baloo"
         android:padding="8dp"
-        android:text="MedMobile"
+        android:text="LAST DANCE\n Choose Below if you\n are"
         android:textAlignment="center"
-        android:textColor="#009688"
+        android:textColor="#0b5394"
         android:textSize="48sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/patientButton"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -64,7 +67,7 @@
         android:padding="5dp"
         android:text="@string/doctor"
         android:textAlignment="center"
-        android:textColor="#009688"
+        android:textColor="#0b5394"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="@+id/doctorButton"
         app:layout_constraintStart_toStartOf="@+id/doctorButton"
@@ -79,7 +82,7 @@
         android:padding="5dp"
         android:text="@string/patient"
         android:textAlignment="center"
-        android:textColor="#009688"
+        android:textColor="#0b5394"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="@+id/patientButton"
         app:layout_constraintStart_toStartOf="@+id/patientButton"

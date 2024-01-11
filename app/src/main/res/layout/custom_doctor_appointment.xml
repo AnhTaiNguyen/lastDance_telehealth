@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/mor">
+    android:background="@color/sky">
 
     <ImageView
         android:id="@+id/r_appDImg"
@@ -31,8 +31,8 @@
             android:layout_marginLeft="13dp"
             android:layout_marginTop="5dp"
             android:fontFamily="@font/baloo"
-            android:text="Hasta ismi"
-            android:textColor="@color/koyu_yesil"
+            android:text="@string/name"
+            android:textColor="@color/blue"
             android:textSize="18sp" />
 
         <TextView
@@ -42,7 +42,7 @@
             android:layout_marginLeft="13dp"
             android:layout_marginTop="3dp"
             android:fontFamily="@font/baloo"
-            android:text="Saat"
+            android:text="@string/at"
             android:textColor="@color/black" />
 
         <TextView
@@ -52,7 +52,7 @@
             android:layout_marginLeft="13dp"
             android:layout_marginTop="3dp"
             android:fontFamily="@font/baloo"
-            android:text="Tarih"
+            android:text="@string/date"
             android:textColor="@color/black" />
 
         <TextView
@@ -62,7 +62,7 @@
             android:layout_marginLeft="13dp"
             android:layout_marginTop="3dp"
             android:fontFamily="@font/baloo"
-            android:text="Not"
+            android:text="@string/note"
             android:textColor="@color/black" />
     </LinearLayout>
 </LinearLayout>

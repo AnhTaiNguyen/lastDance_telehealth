@@ -8,12 +8,12 @@
         android:orderInCategory="5"
         android:title="appointments"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/news"
-        android:icon="@drawable/ic_news"
-        android:orderInCategory="6"
-        android:title="@string/news"
-        app:showAsAction="always" />
+<!--    <item-->
+<!--        android:id="@+id/news"-->
+<!--        android:icon="@drawable/ic_news"-->
+<!--        android:orderInCategory="6"-->
+<!--        android:title="@string/news"-->
+<!--        app:showAsAction="always" />-->
     <item
         android:id="@+id/profile"
         android:icon="@drawable/ic_profil"

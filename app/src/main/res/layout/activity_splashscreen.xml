@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.309"
-        app:srcCompat="@drawable/last_dance_university_logo" />
+        app:srcCompat="@drawable/ic_last_dance_university" />
 
     <TextView
         android:id="@+id/textView"

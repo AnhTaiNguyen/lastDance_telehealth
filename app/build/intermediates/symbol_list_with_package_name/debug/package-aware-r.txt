@@ -2832,8 +2832,6 @@ drawable ic_register
 drawable ic_savebutton
 drawable ic_search_black_24
 drawable last_dance_2
-drawable last_dance_university_logo
-drawable logo
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password

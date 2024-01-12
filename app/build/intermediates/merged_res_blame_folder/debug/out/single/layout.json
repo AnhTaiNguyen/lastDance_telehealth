@@ -1,106 +1,102 @@
 [
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_main.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/chat_user_item_layout.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/chat_user_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\receiver_item_layout.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\receiver_item_layout.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/sent_item_layout.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/sent_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_chat.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_chat.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_profile.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_doctor_homepage.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_homepage.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_my_appointments.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_my_appointments.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_splashscreen.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_splashscreen.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_home_page.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_home_page.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_news.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_news.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/receiver_item_layout.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/receiver_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_profile.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_profile.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/custom_appointment.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/custom_appointment.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_appointment.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_appointment.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_splashscreen.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_splashscreen.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\fragment_chat.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\fragment_chat.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/custom_doctor_list.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/custom_doctor_list.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_home_page.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_home_page.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\chat_user_item_layout.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\chat_user_item_layout.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_login.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_login.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_doctor_register.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_register.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_doctor_profile.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_doctor_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_login.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_login.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_doctor_profile_edit.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_doctor_profile_edit.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_news_detail.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_news_detail.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/custom_doctor_appointment.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/custom_doctor_appointment.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\custom_doctor_list.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_doctor_list.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_news_detail.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_news_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_my_appointments.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_my_appointments.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/fragment_chat.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/fragment_chat.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_register.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_register.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_news.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_news.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_patient_profile_edit.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_profile_edit.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_chat.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_chat.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_doctor_profile.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_profile.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_doctor_register.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_doctor_register.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\news_list.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\news_list.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/news_list.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/news_list.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\custom_doctor_appointment.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_doctor_appointment.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\custom_appointment.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_appointment.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_doctor_profile_edit.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_profile_edit.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_doctor_login.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_doctor_login.xml"
     },
     {
         "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_appointment.xml",
         "source": "com.works.lastdance.app-main-44:/layout/activity_appointment.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\sent_item_layout.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\sent_item_layout.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_doctor_homepage.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_doctor_homepage.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-mergeDebugResources-41:\\layout\\activity_doctor_login.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_login.xml"
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_register.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_register.xml"
+    },
+    {
+        "merged": "com.works.lastdance.app-mergeDebugResources-41:/layout/activity_patient_profile_edit.xml",
+        "source": "com.works.lastdance.app-main-44:/layout/activity_patient_profile_edit.xml"
     }
 ]

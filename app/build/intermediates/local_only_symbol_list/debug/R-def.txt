@@ -49,8 +49,6 @@ drawable ic_profile
 drawable ic_register
 drawable ic_savebutton
 drawable last_dance_2
-drawable last_dance_university_logo
-drawable logo
 drawable out
 drawable patient
 drawable person

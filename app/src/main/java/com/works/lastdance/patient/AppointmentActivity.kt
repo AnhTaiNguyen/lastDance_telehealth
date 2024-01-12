@@ -133,7 +133,7 @@ class AppointmentActivity : AppCompatActivity() {
                 } else {
                     selectedHour = String.format("%d:%d", hour, roundedMinute)
                     txtAppHour.setText(
-                        "History: " + Date + "\nAt " + String.format(
+                        "Date: " + Date + "\nAt " + String.format(
                             "%d:%d",
                             hour,
                             roundedMinute

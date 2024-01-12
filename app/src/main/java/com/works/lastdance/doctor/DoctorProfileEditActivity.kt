@@ -89,7 +89,7 @@ class DoctorProfileEditActivity : AppCompatActivity() {
                         val age = edtDAge.text.toString()
                         val field = spinnerField.selectedItem.toString()
 
-                        // Eski şifreyi kontrol edin ve güncelleme işlemi yapın
+
                         verifyAndUpdate(
                             oldPassword,
                             newPassword,
@@ -100,7 +100,7 @@ class DoctorProfileEditActivity : AppCompatActivity() {
                             user?.email!!,
                             downloadUri.toString()
                         )
-                        // Belirli bir gecikme süresiyle intent'i başlatın
+
                         Handler().postDelayed({
                             val intent = Intent(
                                 this@DoctorProfileEditActivity,
@@ -118,16 +118,16 @@ class DoctorProfileEditActivity : AppCompatActivity() {
             }
         }
 
-        // Görsele tıklandığında galeriye erişim isteyin
+
         imgDoctorProfile.setOnClickListener {
             openGallery()
         }
     }
 
-    // Kullanıcıya galeriye erişim izni istemek için izin kodu
+
     private val READ_EXTERNAL_STORAGE_PERMISSION = 123
     private val PICK_IMAGE_REQUEST = 123
-    // İstenilen izinlerin sonuçları için onRequestPermissionsResult metodunu kontrol edin
+
     override fun onRequestPermissionsResult(
         requestCode: Int,
         permissions: Array<out String>,
@@ -136,23 +136,23 @@ class DoctorProfileEditActivity : AppCompatActivity() {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults)
         if (requestCode == READ_EXTERNAL_STORAGE_PERMISSION) {
             if (grantResults.isNotEmpty() && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                // İzin verildi, galeriye erişim sağlanabilir
+
                 openGallery()
             } else {
-                // İzin reddedildi, galeriye erişim sağlanamaz
+
                 Toast.makeText(this, "\n" +
                         "Gallery access denied", Toast.LENGTH_SHORT).show()
             }
         }
     }
 
-    // Galeriye erişim sağlandığında çağrılır
+
     private fun openGallery() {
         val intent = Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI)
         startActivityForResult(intent, PICK_IMAGE_REQUEST)
     }
 
-    // Galeri seçim sonucu için onActivityResult metodunu kontrol edin
+
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
@@ -172,16 +172,14 @@ class DoctorProfileEditActivity : AppCompatActivity() {
                 if (!task.isSuccessful) {
                     throw task.exception!!
                 }
-                // Görselin indirilebilir URL'sini alma
+
                 imageRef.downloadUrl
             }.addOnCompleteListener { task ->
                 if (task.isSuccessful) {
                     downloadUri = task.result
-                    // Görselin indirilebilir URL'sini alınca yapılacak işlemler
-                    // Örneğin, Firestore'a kaydetme gibi
-                    // downloadUri.toString() kullanarak URL'yi alabilirsiniz
+
                 } else {
-                    // Görselin yüklenemediği durumlar için hata işlemleri
+
                 }
             }
         }
@@ -204,7 +202,7 @@ class DoctorProfileEditActivity : AppCompatActivity() {
             if (task.isSuccessful) {
                 user.updatePassword(newPassword).addOnCompleteListener { updateTask ->
                     if (updateTask.isSuccessful) {
-                        // Şimdi Firestore'daki diğer bilgileri güncelle
+
                         updateDoctorInFirestore(
                             user.uid,
                             first,

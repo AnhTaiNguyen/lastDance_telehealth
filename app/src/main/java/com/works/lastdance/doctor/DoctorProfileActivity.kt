@@ -66,10 +66,11 @@ class DoctorProfileActivity : AppCompatActivity() {
 
         btnDeleteDAccount.setOnClickListener {
             AlertDialog.Builder(this)
-                .setTitle("Hesabı Sil")
-                .setMessage("Hesabınızı silmek istediğinizden emin misiniz?")
-                .setPositiveButton("Evet") { _, _ ->
-                    // Kullanıcının hesabını sil
+                .setTitle(
+                        "Delete the account")
+                .setMessage("Are you sure you want to delete your account?")
+                .setPositiveButton("Yes") { _, _ ->
+
                     val user = FirebaseAuth.getInstance().currentUser
                     user?.delete()
                         ?.addOnCompleteListener { task ->
@@ -77,7 +78,7 @@ class DoctorProfileActivity : AppCompatActivity() {
                                 Log.d(
                                     "FirebaseAuth",
                                     "The user account has been deleted."
-                                )// Firestore'dan da kullanıcıyı silin
+                                )
                                 val db = FirebaseFirestore.getInstance()
                                 db.collection("doctors")
                                     .document(user.email!!)
@@ -96,12 +97,12 @@ class DoctorProfileActivity : AppCompatActivity() {
                                             e
                                         )
                                     }
-                                // Başarı durumunda kullanıcıyı bir sonraki aktiviteye yönlendir
+
                                 val intent = Intent(this, MainActivity::class.java)
                                 startActivity(intent)
                                 finish()
                             } else {
-                                // Kullanıcı silinirken hata oluştu
+
                                 Log.w(
                                     "Firestore",
                                     "An error",
@@ -110,7 +111,7 @@ class DoctorProfileActivity : AppCompatActivity() {
                             }
                         }
                 }
-                .setNegativeButton("Hayır", null)
+                .setNegativeButton("No", null)
                 .show()
         }
 
@@ -123,7 +124,7 @@ class DoctorProfileActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        // Verileri güncelle
+
         updateData()
     }
 
@@ -137,7 +138,7 @@ class DoctorProfileActivity : AppCompatActivity() {
             .addOnSuccessListener { document ->
                 if (document != null && document.exists()) {
                     val doctorData = document.toObject(DoctorData::class.java)
-                    // Verileri TextView'lere ata
+
                     txtDName.text = "First: ${doctorData?.first}"
                     txtDSurname.text = "Last: ${doctorData?.last}"
                     txtDAge.text = "Age: ${doctorData?.age}"

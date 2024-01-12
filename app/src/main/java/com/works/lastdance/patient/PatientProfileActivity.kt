@@ -63,9 +63,9 @@ class PatientProfileActivity : AppCompatActivity() {
         }
         btnDeleteAccount.setOnClickListener {
             AlertDialog.Builder(this)
-                .setTitle("Hesabı Sil")
-                .setMessage("Hesabınızı silmek istediğinizden emin misiniz?")
-                .setPositiveButton("Evet") { _, _ ->
+                .setTitle("Delete the account")
+                .setMessage("Are you sure you want to delete your account?")
+                .setPositiveButton("Yes") { _, _ ->
 
                     val user = FirebaseAuth.getInstance().currentUser
                     user?.delete()

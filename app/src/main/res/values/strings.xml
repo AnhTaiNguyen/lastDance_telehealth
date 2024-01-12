@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">TELE19</string>
+    <string name="app_name">TeleCare19</string>
     <string name="email">E-mail</string>
     <string name="password">Password</string>
-    <string name="header">LASTDANCE</string>
+    <string name="header">Telecare19</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
 
@@ -27,7 +27,6 @@
     <string name="note">Note</string>
     <string name="profession">Profession:</string>
     <string name="list_appoinment">List Appoinment</string>
-    <string name="chat">chat</string>
 
     <string-array name="doctor_specialties">
         <item>Blood Pressure</item>

@@ -21,7 +21,7 @@ import com.works.lastdance.patient.services.DoctorService
 
 class PatientHomePageActivity : AppCompatActivity() {
     lateinit var listView: ListView
-    lateinit var doctorService: DoctorService
+    lateinit var    doctorService: DoctorService
 
     lateinit var userImage: String
     lateinit var userName : String

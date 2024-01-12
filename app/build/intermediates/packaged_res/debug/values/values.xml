@@ -35,6 +35,7 @@
         <item>@font/dm_sans_medium</item>
     </array>
     <color name="background">#00fa9a</color>
+    <color name="background_doc">#FFF6CC</color>
     <color name="black">#FF000000</color>
     <color name="blue">#2986CC</color>
     <color name="bold_blue">#16537e</color>

@@ -35,15 +35,19 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final TextView titleTextView;
 
+  @NonNull
+  public final TextView txtFooter;
+
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView doctorButton,
       @NonNull ImageView patientButton, @NonNull TextView textView, @NonNull TextView textView3,
-      @NonNull TextView titleTextView) {
+      @NonNull TextView titleTextView, @NonNull TextView txtFooter) {
     this.rootView = rootView;
     this.doctorButton = doctorButton;
     this.patientButton = patientButton;
     this.textView = textView;
     this.textView3 = textView3;
     this.titleTextView = titleTextView;
+    this.txtFooter = txtFooter;
   }
 
   @Override
@@ -103,8 +107,14 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.txtFooter;
+      TextView txtFooter = ViewBindings.findChildViewById(rootView, id);
+      if (txtFooter == null) {
+        break missingId;
+      }
+
       return new ActivityMainBinding((ConstraintLayout) rootView, doctorButton, patientButton,
-          textView, textView3, titleTextView);
+          textView, textView3, titleTextView, txtFooter);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

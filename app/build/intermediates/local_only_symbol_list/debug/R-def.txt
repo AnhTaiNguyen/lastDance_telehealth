@@ -5,6 +5,8 @@ array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array doctor_specialties
 array preloaded_fonts
+color background
+color background_doc
 color black
 color blue
 color bold_blue
@@ -17,7 +19,14 @@ color light_yellow
 color sky
 color white
 color yellow
+drawable calendar
+drawable calender_head
+drawable chat_logo_t
 drawable circle_bg
+drawable clock
+drawable doctor
+drawable doctor_2
+drawable doctor_23
 drawable ic_appointment_date
 drawable ic_appointment_hour
 drawable ic_appointments
@@ -40,8 +49,13 @@ drawable ic_profil
 drawable ic_profile
 drawable ic_register
 drawable ic_savebutton
+drawable last_dance_2
+drawable out
+drawable patient
+drawable person
 drawable receiver_drawable
 drawable sent_drawable
+drawable web
 font baloo
 font dm_sans
 font dm_sans_bold
@@ -129,6 +143,7 @@ id txtDEmail
 id txtDField
 id txtDName
 id txtDSurname
+id txtFooter
 id txtHeader
 id txtPAge
 id txtPEmail
@@ -177,7 +192,6 @@ string app_name
 string appointment
 string at
 string cancel
-string chat
 string date
 string default_web_client_id
 string delete

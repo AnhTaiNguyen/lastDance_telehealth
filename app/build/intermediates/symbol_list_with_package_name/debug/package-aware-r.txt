@@ -1329,6 +1329,8 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color background
+color background_doc
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -2762,7 +2764,11 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable calendar
+drawable calender_head
+drawable chat_logo_t
 drawable circle_bg
+drawable clock
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2787,6 +2793,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable doctor
+drawable doctor_2
+drawable doctor_23
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_appointment_date
@@ -2823,6 +2832,7 @@ drawable ic_profile
 drawable ic_register
 drawable ic_savebutton
 drawable ic_search_black_24
+drawable last_dance_2
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -2894,11 +2904,15 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable out
+drawable patient
+drawable person
 drawable receiver_drawable
 drawable sent_drawable
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable web
 font baloo
 font dm_sans
 font dm_sans_bold
@@ -3473,6 +3487,7 @@ id txtDEmail
 id txtDField
 id txtDName
 id txtDSurname
+id txtFooter
 id txtHeader
 id txtPAge
 id txtPEmail
@@ -3772,7 +3787,6 @@ string cancel
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
-string chat
 string clear_text_end_icon_content_description
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text

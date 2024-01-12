@@ -66,7 +66,7 @@ class PatientProfileActivity : AppCompatActivity() {
                 .setTitle("Hesabı Sil")
                 .setMessage("Hesabınızı silmek istediğinizden emin misiniz?")
                 .setPositiveButton("Evet") { _, _ ->
-                    // Kullanıcının hesabını sil
+
                     val user = FirebaseAuth.getInstance().currentUser
                     user?.delete()
                         ?.addOnCompleteListener { task ->
@@ -75,7 +75,7 @@ class PatientProfileActivity : AppCompatActivity() {
                                     "FirebaseAuth",
                                     "\n" +
                                             "The user account has been deleted."
-                                )// Firestore'dan da kullanıcıyı silin
+                                )
                                 val db = FirebaseFirestore.getInstance()
                                 db.collection("patients")
                                     .document(user.email!!)
@@ -94,12 +94,12 @@ class PatientProfileActivity : AppCompatActivity() {
                                             e
                                         )
                                     }
-                                // Başarı durumunda kullanıcıyı bir sonraki aktiviteye yönlendir
+
                                 val intent = Intent(this, MainActivity::class.java)
                                 startActivity(intent)
                                 finish()
                             } else {
-                                // Kullanıcı silinirken hata oluştu
+
                                 Log.w(
                                     "Firestore",
                                     "\n" +
@@ -128,7 +128,7 @@ class PatientProfileActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        // Verileri güncelle
+
         updateData()
     }
 
@@ -142,7 +142,7 @@ class PatientProfileActivity : AppCompatActivity() {
             .addOnSuccessListener { document ->
                 if (document != null && document.exists()) {
                     val patientData = document.toObject(PatientData::class.java)
-                    // Verileri EditText'lere atayın
+
                     txtPName.setText("First: ${patientData?.first}")
                     txtPSurname.setText("Last: ${patientData?.last}")
                     txtPAge.setText("Age: ${patientData?.age}")

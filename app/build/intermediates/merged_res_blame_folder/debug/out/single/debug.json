@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_news_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\news_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_appointment_hour.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_appointment_hour.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_custom_doctor_list.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_doctor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_news.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xhdpi_ic_launcherr.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xhdpi\\ic_launcherr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_register.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_news.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_receiver_item_layout.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\receiver_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_doctor_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_chat_back.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_chat_back.png"
+    },
+    {
+        "merged": "com.works.lastdance.app-merged_res-42:/layout_chat_user_item_layout.xml.flat",
+        "source": "com.works.lastdance.app-main-44:/layout/chat_user_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_editbutton.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_editbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xxhdpi_ic_launcherr.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xxhdpi\\ic_launcherr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_savebutton.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_savebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_person_man.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_person_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_profil.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "com.works.lastdance.app-merged_res-42:/menu_doctor_menu.xml.flat",
+        "source": "com.works.lastdance.app-main-44:/menu/doctor_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-hdpi_ic_launcherr.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-hdpi\\ic_launcherr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_profile_edit.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-mdpi_ic_launcherr.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-mdpi\\ic_launcherr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_doctor_homepage.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_custom_appointment.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_doctor.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_chat_user_item_layout.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\chat_user_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\font_dm_sans_medium.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\font\\dm_sans_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_appointment_date.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_appointment_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_last_dance_university.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_last_dance_university.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_register.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\menu_doctor_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\menu\\doctor_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\menu_patient_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\menu\\patient_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_doctor_profile_edit.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\font_dm_sans_bold.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\font\\dm_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_patient.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_appointments.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\font_dm_sans.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\font\\dm_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_custom_doctor_appointment.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\custom_doctor_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_doctor_register.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_login.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_doctor_login.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_doctor_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_home_page.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcherr.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-anydpi-v26\\ic_launcherr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_chat_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_chat_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-anydpi-v33_ic_launcherr.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-anydpi-v33\\ic_launcherr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcherr.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xxxhdpi\\ic_launcherr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_chat_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\chat_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_my_appointments.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_my_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_patient_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_patient_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_sent_item_layout.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\sent_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_last_dance_university_logo.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\last_dance_university_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_appointment.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_sent_drawable.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\sent_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_receiver_drawable.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\receiver_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\drawable_chat_back.png.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\drawable\\chat_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-merged_res-42:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\daemon\\7.5\\com.works.lastdance.app-main-44:\\layout\\activity_splashscreen.xml"
+    }
+]

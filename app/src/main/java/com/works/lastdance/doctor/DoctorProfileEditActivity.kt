@@ -159,10 +159,10 @@ class DoctorProfileEditActivity : AppCompatActivity() {
         if (requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK && data != null) {
             val selectedImageUri = data.data
 
-            // Glide ile seçilen görseli ImageView'e yükleme
+
             Glide.with(this).load(selectedImageUri).into(imgDoctorProfile)
 
-            // Seçilen görseli Firebase Storage'a kaydetme
+
             val user = FirebaseAuth.getInstance().currentUser
             val storageRef = FirebaseStorage.getInstance().reference
             val imageRef = storageRef.child("users/${user?.email}/profile.jpg")

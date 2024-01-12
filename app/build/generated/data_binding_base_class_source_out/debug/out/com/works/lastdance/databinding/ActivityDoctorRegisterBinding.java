@@ -32,9 +32,6 @@ public final class ActivityDoctorRegisterBinding implements ViewBinding {
   public final TextView textView2;
 
   @NonNull
-  public final TextView txtFooter;
-
-  @NonNull
   public final EditText txtRDoctorAge;
 
   @NonNull
@@ -51,14 +48,13 @@ public final class ActivityDoctorRegisterBinding implements ViewBinding {
 
   private ActivityDoctorRegisterBinding(@NonNull ConstraintLayout rootView,
       @NonNull ImageButton btnRDocConfirm, @NonNull Spinner spinnerField,
-      @NonNull TextView textView2, @NonNull TextView txtFooter, @NonNull EditText txtRDoctorAge,
+      @NonNull TextView textView2, @NonNull EditText txtRDoctorAge,
       @NonNull EditText txtRDoctorEmail, @NonNull EditText txtRDoctorName,
       @NonNull EditText txtRDoctorPassword, @NonNull EditText txtRDoctorSurname) {
     this.rootView = rootView;
     this.btnRDocConfirm = btnRDocConfirm;
     this.spinnerField = spinnerField;
     this.textView2 = textView2;
-    this.txtFooter = txtFooter;
     this.txtRDoctorAge = txtRDoctorAge;
     this.txtRDoctorEmail = txtRDoctorEmail;
     this.txtRDoctorName = txtRDoctorName;
@@ -111,12 +107,6 @@ public final class ActivityDoctorRegisterBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.txtFooter;
-      TextView txtFooter = ViewBindings.findChildViewById(rootView, id);
-      if (txtFooter == null) {
-        break missingId;
-      }
-
       id = R.id.txtRDoctorAge;
       EditText txtRDoctorAge = ViewBindings.findChildViewById(rootView, id);
       if (txtRDoctorAge == null) {
@@ -148,7 +138,7 @@ public final class ActivityDoctorRegisterBinding implements ViewBinding {
       }
 
       return new ActivityDoctorRegisterBinding((ConstraintLayout) rootView, btnRDocConfirm,
-          spinnerField, textView2, txtFooter, txtRDoctorAge, txtRDoctorEmail, txtRDoctorName,
+          spinnerField, textView2, txtRDoctorAge, txtRDoctorEmail, txtRDoctorName,
           txtRDoctorPassword, txtRDoctorSurname);
     }
     String missingId = rootView.getResources().getResourceName(id);

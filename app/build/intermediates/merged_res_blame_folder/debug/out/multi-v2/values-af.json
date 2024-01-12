@@ -4,7 +4,24 @@
             "outputFile": "com.works.lastdance.app-mergeDebugResources-40:/values-af/values-af.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\f62cf929fca79e989a6fab3a14f36788\\transformed\\appcompat-1.6.1\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\60ba495df808f33a6d6bc60c6b078fd4\\transformed\\core-1.9.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "118",
+                        "startColumns": "4",
+                        "startOffsets": "10543",
+                        "endColumns": "100",
+                        "endOffsets": "10639"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\f62cf929fca79e989a6fab3a14f36788\\transformed\\appcompat-1.6.1\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\806fbaa2a31394b1de824c3102dc2603\\transformed\\material-1.8.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\806fbaa2a31394b1de824c3102dc2603\\transformed\\material-1.8.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\b682c909602965092bae3702c2a5dfae\\transformed\\play-services-base-18.1.0\\res\\values-af\\values.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\b682c909602965092bae3702c2a5dfae\\transformed\\play-services-base-18.1.0\\res\\values-af\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -57,41 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\60ba495df808f33a6d6bc60c6b078fd4\\transformed\\core-1.9.0\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "118",
-                        "startColumns": "4",
-                        "startOffsets": "10543",
-                        "endColumns": "100",
-                        "endOffsets": "10639"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\48ddb2ff31542196b796a9a8e2c52def\\transformed\\play-services-basement-18.1.0\\res\\values-af\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "138",
-                        "endOffsets": "333"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "4707",
-                        "endColumns": "142",
-                        "endOffsets": "4845"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\08b8aef7049ec8f0daeaf9e9d27319bc\\transformed\\browser-1.4.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\08b8aef7049ec8f0daeaf9e9d27319bc\\transformed\\browser-1.4.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -105,6 +88,23 @@
                         "startOffsets": "5909,6166,6268,6381",
                         "endColumns": "104,101,112,99",
                         "endOffsets": "6009,6263,6376,6476"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\48ddb2ff31542196b796a9a8e2c52def\\transformed\\play-services-basement-18.1.0\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4707",
+                        "endColumns": "142",
+                        "endOffsets": "4845"
                     }
                 }
             ]

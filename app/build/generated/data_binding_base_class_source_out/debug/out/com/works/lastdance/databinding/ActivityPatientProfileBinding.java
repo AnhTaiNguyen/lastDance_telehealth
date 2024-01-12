@@ -31,9 +31,6 @@ public final class ActivityPatientProfileBinding implements ViewBinding {
   public final ImageView imgPatientProfilePicture;
 
   @NonNull
-  public final TextView txtFooter;
-
-  @NonNull
   public final TextView txtPAge;
 
   @NonNull
@@ -47,14 +44,12 @@ public final class ActivityPatientProfileBinding implements ViewBinding {
 
   private ActivityPatientProfileBinding(@NonNull ConstraintLayout rootView,
       @NonNull Button btnDeleteAccount, @NonNull Button btnEditProfile,
-      @NonNull ImageView imgPatientProfilePicture, @NonNull TextView txtFooter,
-      @NonNull TextView txtPAge, @NonNull TextView txtPEmail, @NonNull TextView txtPName,
-      @NonNull TextView txtPSurname) {
+      @NonNull ImageView imgPatientProfilePicture, @NonNull TextView txtPAge,
+      @NonNull TextView txtPEmail, @NonNull TextView txtPName, @NonNull TextView txtPSurname) {
     this.rootView = rootView;
     this.btnDeleteAccount = btnDeleteAccount;
     this.btnEditProfile = btnEditProfile;
     this.imgPatientProfilePicture = imgPatientProfilePicture;
-    this.txtFooter = txtFooter;
     this.txtPAge = txtPAge;
     this.txtPEmail = txtPEmail;
     this.txtPName = txtPName;
@@ -106,12 +101,6 @@ public final class ActivityPatientProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.txtFooter;
-      TextView txtFooter = ViewBindings.findChildViewById(rootView, id);
-      if (txtFooter == null) {
-        break missingId;
-      }
-
       id = R.id.txtPAge;
       TextView txtPAge = ViewBindings.findChildViewById(rootView, id);
       if (txtPAge == null) {
@@ -137,8 +126,7 @@ public final class ActivityPatientProfileBinding implements ViewBinding {
       }
 
       return new ActivityPatientProfileBinding((ConstraintLayout) rootView, btnDeleteAccount,
-          btnEditProfile, imgPatientProfilePicture, txtFooter, txtPAge, txtPEmail, txtPName,
-          txtPSurname);
+          btnEditProfile, imgPatientProfilePicture, txtPAge, txtPEmail, txtPName, txtPSurname);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

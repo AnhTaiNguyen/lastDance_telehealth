@@ -7,7 +7,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -43,14 +42,10 @@ public final class ActivityPatientProfileEditBinding implements ViewBinding {
   @NonNull
   public final ImageView imgPatientProfilePicture;
 
-  @NonNull
-  public final TextView txtFooter;
-
   private ActivityPatientProfileEditBinding(@NonNull ConstraintLayout rootView,
       @NonNull Button btnSaveChanges, @NonNull EditText editNewPassword,
       @NonNull EditText editOldPassword, @NonNull EditText editPAge, @NonNull EditText editPName,
-      @NonNull EditText editPSurname, @NonNull ImageView imgPatientProfilePicture,
-      @NonNull TextView txtFooter) {
+      @NonNull EditText editPSurname, @NonNull ImageView imgPatientProfilePicture) {
     this.rootView = rootView;
     this.btnSaveChanges = btnSaveChanges;
     this.editNewPassword = editNewPassword;
@@ -59,7 +54,6 @@ public final class ActivityPatientProfileEditBinding implements ViewBinding {
     this.editPName = editPName;
     this.editPSurname = editPSurname;
     this.imgPatientProfilePicture = imgPatientProfilePicture;
-    this.txtFooter = txtFooter;
   }
 
   @Override
@@ -131,15 +125,9 @@ public final class ActivityPatientProfileEditBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.txtFooter;
-      TextView txtFooter = ViewBindings.findChildViewById(rootView, id);
-      if (txtFooter == null) {
-        break missingId;
-      }
-
       return new ActivityPatientProfileEditBinding((ConstraintLayout) rootView, btnSaveChanges,
           editNewPassword, editOldPassword, editPAge, editPName, editPSurname,
-          imgPatientProfilePicture, txtFooter);
+          imgPatientProfilePicture);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

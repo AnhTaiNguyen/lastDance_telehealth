@@ -34,21 +34,17 @@ public final class ActivityPatientLoginBinding implements ViewBinding {
   public final EditText editTxtDoctorLPassword;
 
   @NonNull
-  public final TextView txtFooter;
-
-  @NonNull
   public final TextView txtHeader;
 
   private ActivityPatientLoginBinding(@NonNull ConstraintLayout rootView,
       @NonNull Button btnDoctorLogin, @NonNull Button btnDoctorRegister,
       @NonNull EditText editTxtDoctorLEmail, @NonNull EditText editTxtDoctorLPassword,
-      @NonNull TextView txtFooter, @NonNull TextView txtHeader) {
+      @NonNull TextView txtHeader) {
     this.rootView = rootView;
     this.btnDoctorLogin = btnDoctorLogin;
     this.btnDoctorRegister = btnDoctorRegister;
     this.editTxtDoctorLEmail = editTxtDoctorLEmail;
     this.editTxtDoctorLPassword = editTxtDoctorLPassword;
-    this.txtFooter = txtFooter;
     this.txtHeader = txtHeader;
   }
 
@@ -103,12 +99,6 @@ public final class ActivityPatientLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.txtFooter;
-      TextView txtFooter = ViewBindings.findChildViewById(rootView, id);
-      if (txtFooter == null) {
-        break missingId;
-      }
-
       id = R.id.txtHeader;
       TextView txtHeader = ViewBindings.findChildViewById(rootView, id);
       if (txtHeader == null) {
@@ -116,7 +106,7 @@ public final class ActivityPatientLoginBinding implements ViewBinding {
       }
 
       return new ActivityPatientLoginBinding((ConstraintLayout) rootView, btnDoctorLogin,
-          btnDoctorRegister, editTxtDoctorLEmail, editTxtDoctorLPassword, txtFooter, txtHeader);
+          btnDoctorRegister, editTxtDoctorLEmail, editTxtDoctorLPassword, txtHeader);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

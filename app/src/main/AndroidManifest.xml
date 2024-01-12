@@ -23,18 +23,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
-            android:name=".activity.ChatActivity"
-            android:exported="false" />
-        <activity
-            android:name=".activity.ProfileActivity"
-            android:exported="false" />
-        <activity
-            android:name=".activity.OTPActivity"
-            android:exported="false" />
-        <activity
-            android:name=".activity.NumberActivity"
-            android:exported="false" />
+            android:name=".chatapp.activity.ChatActivity"
+            android:exported="true" />
+
+<!--        <activity-->
+<!--            android:name=".activity.ProfileActivity"-->
+<!--            android:exported="false" />-->
+<!--        <activity-->
+<!--            android:name=".activity.OTPActivity"-->
+<!--            android:exported="false" />-->
+<!--        <activity-->
+<!--            android:name=".activity.NumberActivity"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".patient.PatientMyAppointmentsActivity"
             android:exported="false" />

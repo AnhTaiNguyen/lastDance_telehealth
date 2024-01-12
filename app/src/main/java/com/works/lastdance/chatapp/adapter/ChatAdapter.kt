@@ -9,12 +9,12 @@ import androidx.recyclerview.widget.RecyclerView
 
 import com.works.lastdance.chatapp.activity.ChatActivity
 
-import com.example.chatapp.model.UserModel
 import com.works.lastdance.R
 import com.works.lastdance.databinding.ChatUserItemLayoutBinding
+import com.works.lastdance.patient.models.PatientData
 
 
-class ChatAdapter(var context: Context, var list:ArrayList<UserModel>) : RecyclerView.Adapter<ChatAdapter.ChatViewHolder>()
+class ChatAdapter(var context: Context, var list: ArrayList<PatientData>) : RecyclerView.Adapter<ChatAdapter.ChatViewHolder>()
 {
     inner class ChatViewHolder(view: View): RecyclerView.ViewHolder(view){
         var binding : ChatUserItemLayoutBinding = ChatUserItemLayoutBinding.bind(view)
@@ -25,13 +25,13 @@ class ChatAdapter(var context: Context, var list:ArrayList<UserModel>) : Recycle
             .inflate(R.layout.chat_user_item_layout, parent, false))
     }
     override fun onBindViewHolder(holder: ChatViewHolder, position: Int) {
-        var user = list[position]
+        val user = list[position]
 //        Glide.with(context).load(user.imageUrl).into(holder.binding.userImage)
-        holder.binding.userName.text = user.name
+        holder.binding.userName.text = user.email
 
         holder.itemView.setOnClickListener{
             val intent= Intent(context, ChatActivity::class.java)
-            intent.putExtra("uid", user.uid)
+            intent.putExtra("UID", user.UID)
             context.startActivity(intent)
         }
 

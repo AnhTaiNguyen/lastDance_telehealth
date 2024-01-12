@@ -14,7 +14,7 @@ import com.works.lastdance.databinding.ActivityChatBinding
 import java.util.Date
 
 
-class ChatActivity : AppCompatActivity() {
+class  ChatActivity : AppCompatActivity() {
     private lateinit var binding: ActivityChatBinding
     private lateinit var database: FirebaseDatabase
 
@@ -34,7 +34,7 @@ class ChatActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         senderUid =FirebaseAuth.getInstance().uid.toString()
-        receiverUid = intent.getStringExtra("uid")!!
+        receiverUid = intent.getStringExtra("UID").toString()
 
         list =ArrayList()
 

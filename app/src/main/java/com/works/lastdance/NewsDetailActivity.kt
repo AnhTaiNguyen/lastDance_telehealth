@@ -1,9 +1,11 @@
 package com.works.lastdance
 
+import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.webkit.WebView
-import com.works.lastdance.R
+import android.webkit.WebViewClient
+
 
 class NewsDetailActivity : AppCompatActivity() {
     lateinit var newsWebView : WebView

@@ -13,6 +13,7 @@ import com.google.firebase.firestore.FirebaseFirestore
 import com.works.lastdance.MainActivity
 import com.works.lastdance.NewsActivity
 import com.works.lastdance.R
+import com.works.lastdance.chatapp.activity.ChatActivity
 import com.works.lastdance.doctor.models.DoctorData
 import com.works.lastdance.patient.adapter.DoctorCustomAdapter
 import com.works.lastdance.patient.services.DoctorService
@@ -89,10 +90,10 @@ class PatientHomePageActivity : AppCompatActivity() {
                 startActivity(intent)
             }
 
-//            R.id.news -> {
-//                var intent = Intent(this, NewsActivity::class.java)
-//                startActivity(intent)
-//            }
+            R.id.news -> {
+                var intent = Intent(this, NewsActivity::class.java)
+                startActivity(intent)
+            }
             R.id.logout -> {
                 AlertDialog.Builder(this).apply {
                     setTitle("Log out ")
@@ -111,6 +112,10 @@ class PatientHomePageActivity : AppCompatActivity() {
             }
             R.id.appointments -> {
                 val intent = Intent(applicationContext,PatientMyAppointmentsActivity::class.java)
+                startActivity(intent)
+            }
+            R.id.chat -> {
+                val intent = Intent(applicationContext,ChatActivity::class.java)
                 startActivity(intent)
             }
         }

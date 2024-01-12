@@ -4,7 +4,7 @@
             "outputFile": "com.works.lastdance.app-mergeDebugResources-40:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\60ba495df808f33a6d6bc60c6b078fd4\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\60ba495df808f33a6d6bc60c6b078fd4\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\f62cf929fca79e989a6fab3a14f36788\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Asus\\Desktop\\New folder\\basic-android-kotlin-compose-training-dessert-clicker\\caches\\transforms-3\\f62cf929fca79e989a6fab3a14f36788\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
